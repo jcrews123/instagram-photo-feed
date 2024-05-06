@@ -1,0 +1,32 @@
+body{
+    background-color:grey;
+    height:4000px;
+}
+.Box{
+    height:600px;
+    background-color: rgb(255, 255, 255);
+    width:500px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    margin-top:50px;
+}
+#Picture{
+
+}
+
+.Title{
+    position: relative;
+    margin:10px;
+    font-weight:bold;
+    display:inline-block
+
+}
+.description{
+    padding-left: 5px;
+    text-align: left;
+}
+p{
+float:right;
+padding-right: 10px;
+}
